@@ -5692,12 +5692,6 @@ public final class Settings {
                BOOLEAN_VALIDATOR;
 
         /**
-         * Select various accents to go along with system themes
-         * @hide
-         */
-        public static final String BERRY_ACCENT_PICKER = "berry_accent_picker";
-
-        /**
          * Check if using dark theme
          * @hide
          */
